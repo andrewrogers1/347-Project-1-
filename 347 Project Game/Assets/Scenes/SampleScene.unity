@@ -439,7 +439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0d023b5fa0086f4481d68c6470715af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  steppedOnColor: {r: 1, g: 0, b: 0, a: 1}
+  steppedOnColor: {r: 0.67058825, g: 1, b: 0.19607843, a: 1}
 --- !u!61 &700244756
 BoxCollider2D:
   m_ObjectHideFlags: 0

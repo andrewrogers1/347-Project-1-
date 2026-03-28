@@ -3,7 +3,7 @@ using UnityEngine;
 public class ColorChangePlatform : MonoBehaviour
 {
     private SpriteRenderer spriteRenderer;
-    public Color steppedOnColor = Color.red; // Color when stepped on
+    public Color steppedOnColor;// Color when stepped on
     private Color originalColor; // To store the original color
 
     void Start()
